@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-01T14:37:47.041344900Z</date>
+  <millis>1564670267041</millis>
+  <nanos>344900</nanos>
+  <sequence>0</sequence>
+  <logger>com.example.test</logger>
+  <level>INFO</level>
+  <class>com.example.jdbc.DatabaseTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>About to test the connection</message>
+</record>
+<record>
+  <date>2019-08-01T14:37:47.800285500Z</date>
+  <millis>1564670267800</millis>
+  <nanos>285500</nanos>
+  <sequence>1</sequence>
+  <logger>com.example.test</logger>
+  <level>INFO</level>
+  <class>com.example.jdbc.DatabaseTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finished testing the connection</message>
+</record>
+</log>
